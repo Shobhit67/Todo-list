@@ -1,3 +1,5 @@
+alert("Open in desktop! ");
+
 const ull = document.querySelector("#to-do-box");
 const input = document.querySelector("#item");
 
@@ -27,7 +29,5 @@ const addTOdo = (e) => {
 
     
 }
-alert("Open in desktop! ");
-
 
 
