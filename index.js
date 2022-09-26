@@ -27,10 +27,7 @@ const addTOdo = (e) => {
 
     
 }
+alert("Open in desktop! ");
 
-// input.addEventListener("keypress", 
-// function (){
-//     document.querySelector("span").classList.add("removee");
-// })
 
 
